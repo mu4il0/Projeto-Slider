@@ -26,6 +26,6 @@ Este projeto é uma implementação de um Slider interativo em um site responsiv
 <h3>Miniaturas (Thumbnails): </h3> Exibe as imagens em miniatura na parte inferior para indicar a posição atual do slider.
 <h3>Botões de Navegação: </h3>
 
-Próximo ("Next"): Ao clicar, a imagem atual é movida para o final da lista, e a próxima imagem aparece.
-Anterior ("Back"): Ao clicar, a última imagem da lista é movida para a frente, voltando para a imagem anterior.
+Próximo ("Next"): Ao clicar, a imagem atual é movida para o final da lista, e a próxima imagem aparece. <br>
+Anterior ("Back"): Ao clicar, a última imagem da lista é movida para a frente, voltando para a imagem anterior. <br>
 Animações: Ao clicar em "Next" ou "Back", os itens deslizam suavemente, e as animações são ativadas para mostrar a nova imagem principal e esconder a antiga.
