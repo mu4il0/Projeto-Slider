@@ -29,3 +29,5 @@ Este projeto é uma implementação de um Slider interativo em um site responsiv
 Próximo ("Next"): Ao clicar, a imagem atual é movida para o final da lista, e a próxima imagem aparece. <br>
 Anterior ("Back"): Ao clicar, a última imagem da lista é movida para a frente, voltando para a imagem anterior. <br>
 Animações: Ao clicar em "Next" ou "Back", os itens deslizam suavemente, e as animações são ativadas para mostrar a nova imagem principal e esconder a antiga.
+
+<video src="./assets/video.mp4" autoplay muted loop></video>
