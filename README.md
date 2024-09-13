@@ -30,7 +30,7 @@ Próximo ("Next"): Ao clicar, a imagem atual é movida para o final da lista, e 
 Anterior ("Back"): Ao clicar, a última imagem da lista é movida para a frente, voltando para a imagem anterior. <br>
 Animações: Ao clicar em "Next" ou "Back", os itens deslizam suavemente, e as animações são ativadas para mostrar a nova imagem principal e esconder a antiga.
 
-<video src="assets/Projeto-slide.mp4" autoplay muted loop></video>
+<image src="assets/site.jpg" > </image>
 
 <p>Minhas redes sociais:</p>
 <a href="https://www.linkedin.com/in/murilo-tavares-7b3bbb304/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
