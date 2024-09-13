@@ -31,3 +31,7 @@ Anterior ("Back"): Ao clicar, a última imagem da lista é movida para a frente,
 Animações: Ao clicar em "Next" ou "Back", os itens deslizam suavemente, e as animações são ativadas para mostrar a nova imagem principal e esconder a antiga.
 
 <video src="assets/Projeto-slide.mp4" autoplay muted loop></video>
+
+<p>Minhas redes sociais:</p>
+<a href="https://www.linkedin.com/in/murilo-tavares-7b3bbb304/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+<a href="https://www.instagram.com/murilo__tt/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"></a>
